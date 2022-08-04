@@ -37,3 +37,6 @@ for grappler. Bernie and Ignatz would have to give up their fighter axe rank to 
 50% of the time maybe grow a miracle bean or two as insurance.
 
 In house Ashe should just go for B+ grappling.
+<br><br>
+
+[Back](https://rocdoc2.github.io/fe3h-discord-builds/Ashe.html)
