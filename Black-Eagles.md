@@ -1,15 +1,15 @@
-Edelgard <br> <br>
+[Edelgard](https://rocdoc2.github.io/fe3h-discord-builds/Edelgard.html) <br> <br>
 
-Hubert <br> <br>
+[Hubert](https://rocdoc2.github.io/fe3h-discord-builds/Hubert.html) <br> <br>
 
-Bernadetta <br> <br>
+[Bernadetta](https://rocdoc2.github.io/fe3h-discord-builds/Bernadetta.html) <br> <br>
 
-Caspar <br> <br>
+[Caspar](https://rocdoc2.github.io/fe3h-discord-builds/Caspar.html) <br> <br>
 
-Dorothea <br> <br>
+[Dorothea](https://rocdoc2.github.io/fe3h-discord-builds/Dorothea.html) <br> <br>
 
-Ferdinand <br> <br>
+[Ferdinand](https://rocdoc2.github.io/fe3h-discord-builds/Ferdinand.html) <br> <br>
 
-Linhardt <br> <br>
+[Linhardt](https://rocdoc2.github.io/fe3h-discord-builds/Linhardt.html) <br> <br>
 
-Petra
+[Petra](https://rocdoc2.github.io/fe3h-discord-builds/Petra.html)
