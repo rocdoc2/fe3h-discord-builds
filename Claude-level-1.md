@@ -18,7 +18,7 @@ __Skill Loadout__
 - hit +20
 - vantage
 - defensive tactics
-- battalion desperation
+- battalion desperation/bow prowess
 
 Feed him enough kills to get level 10 in chapter 13 and use the chapter 14 quest battles to get hit +20 and vantage. Chapter 14 is a great spot to catch him up on levels.
 
