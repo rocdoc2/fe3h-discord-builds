@@ -23,7 +23,7 @@ __Skill loadout__
 - Death blow
 - Hit +20
 - Brawling prowess
-- str +2/brawl crit +10/defensive tactics
+- str +2/brawl crit +10
 
 __Stat benchmarks:__ <br>
 35 speed
@@ -37,6 +37,9 @@ for grappler. Bernie and Ignatz would have to give up their fighter axe rank to 
 50% of the time maybe grow a miracle bean or two as insurance.
 
 In house Ashe should just go for B+ grappling.
+
+__Battalion Recommendation:__<br>
+Anything that gives crit. You'd prefer Goneril valks or Leicester mercs, but Fraldarius soldiers would be just fine on this build.
 <br><br>
 
 [Back](https://rocdoc2.github.io/fe3h-discord-builds/Ashe.html)
