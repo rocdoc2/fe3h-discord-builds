@@ -1,3 +1,4 @@
+## Faculty
 [Byleth](https://rocdoc2.github.io/fe3h-discord-builds/Byleth.html)<br> <br>
 
 [Catherine](https://rocdoc2.github.io/fe3h-discord-builds/Catherine.html)<br> <br>
