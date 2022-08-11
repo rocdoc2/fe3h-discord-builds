@@ -1,4 +1,4 @@
-__Ultra beefy Raphael__
+## Ultra beefy Raphael
 
 Are you tired of these limp dick dodgetanks and complicated wrath setups? Do you 
 long for the years when your units would take hits like MEN, and hit back like GODS.
