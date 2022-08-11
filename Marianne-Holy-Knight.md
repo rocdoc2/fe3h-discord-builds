@@ -1,4 +1,4 @@
-__Holy knight Marianne__
+## Holy knight Marianne
 
 Marianne's pretty cool. Get frozen lance. Click frozen lance. Get on a horse. Keep clicking frozen lance. Use her spells when useful. The reason holy knight's not a meme
 for Marianne specifically is that you only care about tomefaire when it allows you to one shot something flimsy, and aura does that while being a smaller investment than 
