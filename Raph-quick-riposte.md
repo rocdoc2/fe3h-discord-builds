@@ -60,3 +60,6 @@ Quick riposte isn't very practical. Battalion wrath builds come online quicker a
 QR has a noticeably lower power ceiling even at max investment. Still, it's a lot 
 of fun and gives you a feel you don't normally get in this game. 10/10, would 
 recommend.
+
+
+[Back](https://rocdoc2.github.io/fe3h-discord-builds/Raphael.html)
