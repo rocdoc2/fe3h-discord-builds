@@ -31,5 +31,8 @@ Either Wyvern rider or fortress knight can do this periodically.
 __Battalion Recommendations__ <br>
 Leicester mercs or Goneril Valks. Cichol Wyvern Co and Indech Swordfighters are also good if he gets access to them. For a vantage wrath build it's very important he 
 doesn't miss and achieves 100% crit chance.
-<br><br>
+
+__Recruitment__<br>
+Recruiting Raph as a fighter gives a huge chunk of bow rank. However, brawler Raph has much better bases. Generally, I think there's plenty of time to get bow rank to have hit +20 when you want it and I prefer brawler raph, but you could go either way. 
+
 [Back](https://rocdoc2.github.io/fe3h-discord-builds/Raphael.html)
