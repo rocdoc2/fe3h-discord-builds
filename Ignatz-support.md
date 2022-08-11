@@ -23,4 +23,4 @@ __Skill Loadout__
 
 The other skills aren't going to matter. Prowess ig?
 
-[Back](https://rocdoc2.github.io/fe3h-discord-builds/Lorenz.html)
+[Back](https://rocdoc2.github.io/fe3h-discord-builds/Ignatz.html)
