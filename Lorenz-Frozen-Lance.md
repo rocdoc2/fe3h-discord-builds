@@ -12,7 +12,8 @@ Paladin outclasses dark knight in terms of frozen lance damage and movement, but
 knight's healing and long range options are good enough that I still prefer it. 
 There's a lot of enemies that can get ohko'd by ragnarok or orko'd fire or sagittae.
 
-Warlock would be skippable but you need it for the magic base.
+Unlike Marianne or Hubert, Lorenz actually does need to cert warlock for the magic
+base.
 
 __Rank priorities__ <br>
 
@@ -26,3 +27,5 @@ __Skill loadout__
 - Fiendish blow
 - mag +2
 - Lance prowess/dex +4/Reason prowess/black magic range+1/move +1
+
+[Back](https://rocdoc2.github.io/fe3h-discord-builds/Lorenz.html)
