@@ -56,5 +56,7 @@ are preferred, and the silver shield is acceptable if you lack the other two. A 
 prt battalion like Fraldarius Soldiers or Duscur Heavy Soliders is also greatly 
 appreciated.
 
-Quick riposte isn't very practical just because other good stuff comes online 
-quicker, but you can 100% clean house with it and it's very fun.
+Quick riposte isn't very practical. Battalion wrath builds come online quicker and
+QR has a noticeably lower power ceiling even at max investment. Still, it's a lot 
+of fun and gives you a feel you don't normally get in this game. 10/10, would 
+recommend.
