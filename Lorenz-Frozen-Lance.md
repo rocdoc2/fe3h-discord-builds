@@ -13,7 +13,7 @@ knight's healing and long range options are good enough that I still prefer it.
 There's a lot of enemies that can get ohko'd by ragnarok or orko'd fire or sagittae.
 
 Unlike Marianne or Hubert, Lorenz actually does need to cert warlock for the magic
-base.
+base. It's also good to have for some battalion vantage shenanigans.
 
 __Rank priorities__ <br>
 
