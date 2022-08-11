@@ -9,3 +9,5 @@
 [Church + Jeritza + Byleth](https://rocdoc2.github.io/fe3h-discord-builds/Church.html) <br> <br>
 
 [Ashen Wolves](https://rocdoc2.github.io/fe3h-discord-builds/Ashen-Wolves.html)
+
+[Here's the source I use for enemy stats](https://imgur.com/a/dSnk6C9)
