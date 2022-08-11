@@ -1,4 +1,4 @@
-__Frozen Lance Nuke__
+## Frozen Lance Nuke
 
 Lorenz might not have the best magic stat, but frozen lance (and some of the lances 
 you can use it with) is so powerful that even he can blow enemies off the map. An 
