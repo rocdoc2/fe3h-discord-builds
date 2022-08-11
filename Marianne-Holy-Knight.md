@@ -24,4 +24,7 @@ __Skill Loadout__
 
 Dex +4 is +1 frozen lance damage. The more you know. 
 
+__Recruitment__<br>
+Marianne should always be recruited as a monk. It gives a lot of reason rank, priest does nothing, and the sword rank she trains out of house doesn't really help her.
+
 [Back](https://rocdoc2.github.io/fe3h-discord-builds/Marianne.html)
