@@ -1,4 +1,4 @@
-__B. vantage Lorenz__
+## B. vantage Lorenz
 
 Lorenz boasts the unique trait of being the best caster with access to battalion 
 vantage. Tomes are a great weapon type for b. vantage because of its easier ohko's 
@@ -54,6 +54,8 @@ maps without running into ammo problems. With that in mind, +8 magic from booste
 is the ideal amount. It's just enough for him to beat almost all the mid 50s 
 thresholds.
 
+Look for spots where you can skip the magic staff so you can have Thyrsus or
+knowledge gem.
 
 __Class path__
 Monk -> Mage/Cavalier -> Warlock/Paladin -> Dark knight
