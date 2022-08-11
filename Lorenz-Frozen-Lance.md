@@ -28,4 +28,11 @@ __Skill loadout__
 - mag +2
 - Lance prowess/dex +4/Reason prowess/black magic range+1/move +1
 
+__Recruitment__ <br>
+OOH Lorenz is weird. If you recruit him as a cav his speed gets hurt a bit, so
+you usually recruit him as a soldier just to avoid that. The strength and
+bulk cav gives him isn't nothing though. If Lorenz is just going to be a filler
+horse for striding he should definitely be recruiting in chapter 6 or 7. 
+
 [Back](https://rocdoc2.github.io/fe3h-discord-builds/Lorenz.html)
+
