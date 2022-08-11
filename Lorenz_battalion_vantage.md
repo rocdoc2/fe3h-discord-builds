@@ -80,3 +80,5 @@ __Skill Loadout__
 - Battalion vantage
 - Fiendish blow/move +1/Black magic range +1/black tomefaire/defensive tactics
 
+
+[Back](https://rocdoc2.github.io/fe3h-discord-builds/Lorenz.html)
