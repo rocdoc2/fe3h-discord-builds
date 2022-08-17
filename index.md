@@ -1,5 +1,7 @@
 ### Welcome to the fe3h discord builds page. Below is a page for each house, which have pages for each student
 
+If you're looking for gameplay advice, check the top build on each character's page. The other builds will be bigger investments and sometimes memes.
+
 [Black Eagles](https://rocdoc2.github.io/fe3h-discord-builds/Black-Eagles.html) <br> <br> 
 
 [Blue Lions](https://rocdoc2.github.io/fe3h-discord-builds/Blue-Lions.html) <br> <br>
