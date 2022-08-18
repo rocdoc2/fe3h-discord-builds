@@ -4,7 +4,7 @@ I feel as though the Ashe's badness is overstated. He hits early game AS thresho
 with steel axe smash. This isn't to say he isn't bottom tier, it's just to say there's a wide gap between him and bad units in other FE's. You don't have to baby him, 
 not really. He just doesn't get anything that makes him worth raising. He's perfectly tolerable and perfectly unremarkable.
 
-That's a long way of saying you only use ashe for memes or for love. If you're going to use someone for those reasons, go all the way. Half measures are for cowards. 
+That's a long way of saying you only use Ashe for memes or for love. If you're going to use someone for those reasons, go all the way. Half measures are for cowards. 
 Rather than do a bog standard sniper, here's a bdesp warmaster that can killer gauntlet quad any enemy to death on player phase. The class path's actually pretty easy.
 It's mostly just a big statbooster dump.
 
