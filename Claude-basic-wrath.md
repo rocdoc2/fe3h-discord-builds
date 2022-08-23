@@ -24,10 +24,8 @@ __Skill Loadout__
 - battalion wrath
 - vantage
 - hit +20
-- defensive tactics
-- bow prowess/bow crit +10/strength +2
+- defensive tactics/bow prowess/bow crit +10/strength +2
 
-I favor defensive tactics over bow prowess here b/c Cichol's annoying to rotate and if anyone has enough hit, it's Claude. I might be wrong though.
 
 __Battalion Recommendation__ <br>
 Cichol Wyvern co. It's like 70% of why Claude is good.
