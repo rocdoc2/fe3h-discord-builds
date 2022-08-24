@@ -16,7 +16,7 @@ C bows -> D+ Swords -> C axes -> C flying + A authority
 Make sure you build authority gradually over part 1. A's the big one, but you still want C by chapter 3 and B by chapter 7 so he can use new battalions as you unlock 
 them.
 
-If you feel like going for B+ axes to get wrath from warrior, feel free to do so. 
+If you feel like going for B+ axes to get normal wrath from warrior, feel free to do so. 
 
 When you're done with all this just go for bow rank. 
 
@@ -28,6 +28,6 @@ __Skill Loadout__
 
 
 __Battalion Recommendation__ <br>
-Cichol Wyvern co. It's like 70% of why Claude is good.
+It's very important that he gets a boost to hit and crit. Cichol Wyvern co is ideal.
 
 [Back](https://rocdoc2.github.io/fe3h-discord-builds/Claude.html)
