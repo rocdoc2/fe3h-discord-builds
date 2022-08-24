@@ -13,7 +13,7 @@ For advanced classes, all three are fine. You can do multiple but none of them a
 __Rank Priorities__ <br>
 C bows -> C lances -> E+ flying -> D+ axes -> advanced class ranks -> B authority -> A bows -> riding rank for bow knight if you lack it.
 
-When you're done with these consider A authority, A+ riding, and A+ or S bows.
+When you're done with these consider A authority, A+ riding, and A+ or S bows. Wyvern lord ranks are pretty good. You can go wyvern lord instead of bow knight if you like.
 
 __Skill Loadout__
 - Bow prowess
